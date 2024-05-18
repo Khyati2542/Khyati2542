@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpapercave.com/wp/wp10097438.jpg)]
+
 <h1 align="center">Hello World!! 👋, I'm Khyati Verma</h1>
 <h3 align="center">a Passionate AI and DS Enthusiast from Indore | Coding and Collaborating on GitHub | Exploring My Path Through Continuous Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/vector-illustration-cartoon-cute-girl-programmer-coder-developer-designer_657235-204.jpg?w=360">
