@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khyati2542&label=Profile%20views&color=0e75b6&style=flat" alt="khyati2542" /> </p>
 
-- 🔭 I’m currently working on **Authorized person detection**
+- 🔭 I’m currently working as an Data Science intern at **Talent Catalyst AI**
 
 - 🌱 I’m currently learning **Deep Learning Models**
 
