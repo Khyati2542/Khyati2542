@@ -5,13 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khyati2542&label=Profile%20views&color=0e75b6&style=flat" alt="khyati2542" /> </p>
 
-- 🔭 I’m currently working as an Data Science intern at **Talent Catalyst AI**
-
-- 🌱 I’m currently learning **Deep Learning Models**
+- 🔭 I’m currently working as an Trainee Engineer intern at **Ascentt**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Khyati2542](https://github.com/Khyati2542)
 
-- 💬 Ask me about **ML, DL, Java, Web Development**
+- 💬 Ask me about **ML, NLP, SQL, Web Development**
 
 - 📫 How to reach me **khyativerma942@gmail.com**
 
